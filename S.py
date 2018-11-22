@@ -134,8 +134,8 @@ settings = {
     "server": "VPS",
     "ksticker": False,
     "timeRestart": "18000",
-    "message1":"บัญชีนี้ได้รับการป้องกันโดย\n🇹🇭 SELFBOT-BY:MAX 🇹🇭\nทางบัญชีจึงขอทำการบล็อค\nเพื่อความปลอดภัยในบัญชี 🤖",
-    "message":"【さัএπัஞ✵ບิथℓℓҨतΩ】 :\nList opsi\n🤖 Pasangan Hidup :\n🔰 Only Status 🔰 180K/Bulan\n\n🤖 Systim Contract :\n🔰 Only Curhat 🔰 100K/Bulan\n🔰 Zona Friend + TTM\n🔰 Zona Nyaman + Full Care + On 5day + 2 day free 🔰 300K/Bulan\n\n✍️ Bisa Requests Mau Berapa Lama Durasi Buat Debay.\nChat Ke : http://line.me/ti/p/%40spm7024h\n\n📃\n* Always on 24 Jam\n* Keuntungan Banyak\n* Durasi min 0.25month\n* max no limit",
+    "message1":"บัญชีนี้ได้รับการป้องกันโดย\n🇹🇭 ⍣ᎢᎬᎪᎷᏴᎾᎢ⅌ᎷᎫ⍣ 🇹🇭\nทางบัญชีจึงขอทำการบล็อค\nเพื่อความปลอดภัยในบัญชี 🤖",
+    "message":"🇹🇭 ⍣ᎢᎬᎪᎷᏴᎾᎢ⅌ᎷᎫ⍣ 🇹🇭 :\nList opsi\n🤖 Pasangan Hidup :\n🔰 Only Status 🔰 180K/Bulan\n\n🤖 Systim Contract :\n🔰 Only Curhat 🔰 100K/Bulan\n🔰 Zona Friend + TTM\n🔰 Zona Nyaman + Full Care + On 5day + 2 day free 🔰 300K/Bulan\n\n✍️ Bisa Requests Mau Berapa Lama Durasi Buat Debay.\nChat Ke : http://line.me/ti/p/%40spm7024h\n\n📃\n* Always on 24 Jam\n* Keuntungan Banyak\n* Durasi min 0.25month\n* max no limit",
     "comment":"""SELFBOT-BY:MAX""",
     "userAgent": [
         "Mozilla/5.0 (X11; U; Linux i586; de; rv:5.0) Gecko/20100101 Firefox/5.0",
@@ -437,7 +437,7 @@ def myhelp():
 ╠❂͜͡☬➣ผส ➣ผู้สร้าง
 ╠❂͜͡☬➣คท ➣คอนแท็ค
 ╠═════════════════
-║     🤖 sᴇʟғʙᴏᴛ-ʙʏ:ᴍᴀx 🤖
+║ 🤖 🇹🇭 ⍣ᎢᎬᎪᎷᏴᎾᎢ⅌ᎷᎫ⍣ 🇹🇭 🤖
 ╚═════════════════
   *หมายเหตุ*  คำสั่งที่เป็นภาษาไทย
  ให้ใส่ . นำหน้าคำสั่งเวลาใช้ด้วยเด้อ
@@ -495,7 +495,7 @@ def myhelp1():
 ╠❂͜͡☬➣เริ่มใหม่ [รีบูสระบบใหม่]
 ╠❂͜͡☬➣ออน [เช็คเวลาออน]
 ╠═════════════════
-║     🤖 sᴇʟғʙᴏᴛ-ʙʏ:ᴍᴀx 🤖
+║ 🤖 🇹🇭 ⍣ᎢᎬᎪᎷᏴᎾᎢ⅌ᎷᎫ⍣ 🇹🇭 🤖
 ╚═════════════════
  *หมายเหตุ*  คำสั่งที่เป็นภาษาไทย
  ให้ใส่ . นำหน้าคำสั่งเวลาใช้ด้วยเด้อ
@@ -556,7 +556,7 @@ def listgrup():
 ╠❂͜͡☬➣คทดำ
 ╠❂͜͡☬➣ปวดตับ
 ╠═════════════════
-║     🤖 sᴇʟғʙᴏᴛ-ʙʏ:ᴍᴀx 🤖
+║ 🤖 🇹🇭 ⍣ᎢᎬᎪᎷᏴᎾᎢ⅌ᎷᎫ⍣ 🇹🇭 🤖
 ╚═════════════════
  *หมายเหตุ*  คำสั่งที่เป็นภาษาไทย
  ให้ใส่ . นำหน้าคำสั่งเวลาใช้ด้วยเด้อ
@@ -585,7 +585,7 @@ def socmedia():
 ╠❂͜͡☬➣เฟสบุค [ข้อความ]
 ╠❂͜͡☬➣กูเกิ้ล [ข้อความ]
 ╠═════════════════
-║     🤖 sᴇʟғʙᴏᴛ-ʙʏ:ᴍᴀx 🤖
+║ 🤖 🇹🇭 ⍣ᎢᎬᎪᎷᏴᎾᎢ⅌ᎷᎫ⍣ 🇹🇭 🤖
 ╚═════════════════
  *หมายเหตุ*  คำสั่งที่เป็นภาษาไทย
  ให้ใส่ . นำหน้าคำสั่งเวลาใช้ด้วยเด้อ
@@ -715,7 +715,7 @@ def helpsetting():
 ╠❂͜͡☬➣เปิดข้อความ/ปิดข้อความ
 ╠❂͜͡☬➣เปิดแทคแชท/ปิดแทคแชท
 ╠═════════════════
-║     🤖 sᴇʟғʙᴏᴛ-ʙʏ:ᴍᴀx 🤖
+║ 🤖 🇹🇭 ⍣ᎢᎬᎪᎷᏴᎾᎢ⅌ᎷᎫ⍣ 🇹🇭 🤖
 ╚═════════════════
  *หมายเหตุ*  คำสั่งที่เป็นภาษาไทย
  ให้ใส่ . นำหน้าคำสั่งเวลาใช้ด้วยเด้อ
@@ -755,7 +755,7 @@ def helpsiri():
 ╠❂͜͡☬➣ล็อครูป
 ╠❂͜͡☬➣ล็อคเชิญ
 ╠═══════════════
-║     🤖 sᴇʟғʙᴏᴛ-ʙʏ:ᴍᴀx 🤖
+║🤖 🇹🇭 ⍣ᎢᎬᎪᎷᏴᎾᎢ⅌ᎷᎫ⍣ 🇹🇭 🤖
 ╚═══════════════
 """
     return helpSiri
@@ -787,10 +787,10 @@ def helptexttospeech():
 ╠❂͜͡☬➣ᴛʜ : ไทย 
 ╠❂͜͡☬➣ᴠɪ : เวียดนาม
 ╠═════════════════
-║     🤖 sᴇʟғʙᴏᴛ-ʙʏ:ᴍᴀx 🤖
+║ 🤖 🇹🇭 ⍣ᎢᎬᎪᎷᏴᎾᎢ⅌ᎷᎫ⍣ 🇹🇭 🤖
 ╚═════════════════
 
-「วิธีใช้ : say-th แม็คมันดื้อ」"""
+「วิธีใช้ : say-th เอ็มเจ Botline」"""
     return helpTextToSpeech
     
 def helplanguange():
@@ -829,7 +829,7 @@ def helplanguange():
 ╠❂͜͡☬➣тн : ไทย 
 ╠❂͜͡☬➣zυ : ซูลู 
 ╠═════════════════
-║     🤖 sᴇʟғʙᴏᴛ-ʙʏ:ᴍᴀx 🤖
+║ 🤖 🇹🇭 ⍣ᎢᎬᎪᎷᏴᎾᎢ⅌ᎷᎫ⍣ 🇹🇭 🤖
 ╚═════════════════
  
 「วิธีใช้ : tr-th hello」
@@ -1115,42 +1115,42 @@ def lineBot(op):
                         p = Pool(20)
                         p.map(Rapid1Say,rmtosay)
                         p.close()
-                if text.lower() == 'help':
+                if text.lower() == 'คำสั่ง':
                     myHelp = myhelp()
                     line.sendMessage(to, str(myHelp))
                     line.sendContact(to, "u83211e3b69096f869d545aed2d1724d3")
                     #line.sendMentionFooter(to, '「ผู้สร้างบอท」\n', sender, "https://line.me/ti/p/~max_pv.", "http://dl.profile.line-cdn.net/"+line.getContact(sender).pictureStatus, line.getContact(sender).displayName);line.sendMessage(to, line.getContact(sender).displayName, contentMetadata = {'previewUrl': 'http://dl.profile.line-cdn.net/'+line.getContact(sender).pictureStatus, 'i-installUrl': 'https://line.me/ti/p/~max_pv.', 'type': 'mt', 'subText': "SELFBOT-BY:MAX", 'a-installUrl': 'https://line.me/ti/p/~max_pv.', 'a-installUrl': ' https://line.me/ti/p/~max_pv.', 'a-packageName': 'com.spotify.music', 'countryCode': 'ID', 'a-linkUri': 'https://line.me/ti/p/~max_pv.', 'i-linkUri': 'https://line.me/ti/p/~max_pv.', 'id': 'mt000000000a6b79f9', 'text': 'Khie', 'linkUri': 'https://line.me/ti/p/~max_pv'}, contentType=19)
-                elif text.lower() == 'help1':
+                elif text.lower() == 'คำสั่ง1':
                     myHelp1 = myhelp1()
                     line.sendMessage(to, str(myHelp1))
                     line.sendContact(to, "u83211e3b69096f869d545aed2d1724d3")
                     #line.sendMentionFooter(to, '「ผู้สร้างบอท」\n', sender, "https://line.me/ti/p/~max_pv.", "http://dl.profile.line-cdn.net/"+line.getContact(sender).pictureStatus, line.getContact(sender).displayName);line.sendMessage(to, line.getContact(sender).displayName, contentMetadata = {'previewUrl': 'http://dl.profile.line-cdn.net/'+line.getContact(sender).pictureStatus, 'i-installUrl': 'https://line.me/ti/p/~max_pv.', 'type': 'mt', 'subText': "SELFBOT-BY:MAX", 'a-installUrl': 'https://line.me/ti/p/~max_pv.', 'a-installUrl': ' https://line.me/ti/p/~max_pv.', 'a-packageName': 'com.spotify.music', 'countryCode': 'ID', 'a-linkUri': 'https://line.me/ti/p/~max_pv.', 'i-linkUri': 'https://line.me/ti/p/~max_pv.', 'id': 'mt000000000a6b79f9', 'text': 'Khie', 'linkUri': 'https://line.me/ti/p/~max_pv'}, contentType=19)
-                elif text.lower() == 'help2':
+                elif text.lower() == 'คำสั่ง2':
                     helpSet = helpset()
                     line.sendMessage(to, str(helpSet))
                     line.sendContact(to, "u83211e3b69096f869d545aed2d1724d3")
                     #line.sendMentionFooter(to, '「ผู้สร้างบอท」\n', sender, "https://line.me/ti/p/~max_pv.", "http://dl.profile.line-cdn.net/"+line.getContact(sender).pictureStatus, line.getContact(sender).displayName);line.sendMessage(to, line.getContact(sender).displayName, contentMetadata = {'previewUrl': 'http://dl.profile.line-cdn.net/'+line.getContact(sender).pictureStatus, 'i-installUrl': 'https://line.me/ti/p/~max_pv.', 'type': 'mt', 'subText': "SELFBOT-BY:MAX", 'a-installUrl': 'https://line.me/ti/p/~max_pv.', 'a-installUrl': ' https://line.me/ti/p/~max_pv.', 'a-packageName': 'com.spotify.music', 'countryCode': 'ID', 'a-linkUri': 'https://line.me/ti/p/~max_pv.', 'i-linkUri': 'https://line.me/ti/p/~max_pv.', 'id': 'mt000000000a6b79f9', 'text': 'Khie', 'linkUri': 'https://line.me/ti/p/~max_pv'}, contentType=19)
-                elif text.lower() == 'help3':
+                elif text.lower() == 'คำสั่ง3':
                     listGrup = listgrup()
                     line.sendMessage(to, str(listGrup))
                     line.sendContact(to, "u83211e3b69096f869d545aed2d1724d3")
                     #line.sendMentionFooter(to, '「ผู้สร้างบอท」\n', sender, "https://line.me/ti/p/~max_pv.", "http://dl.profile.line-cdn.net/"+line.getContact(sender).pictureStatus, line.getContact(sender).displayName);line.sendMessage(to, line.getContact(sender).displayName, contentMetadata = {'previewUrl': 'http://dl.profile.line-cdn.net/'+line.getContact(sender).pictureStatus, 'i-installUrl': 'https://line.me/ti/p/~max_pv.', 'type': 'mt', 'subText': "SELFBOT-BY:MAX", 'a-installUrl': 'https://line.me/ti/p/~max_pv.', 'a-installUrl': ' https://line.me/ti/p/~max_pv.', 'a-packageName': 'com.spotify.music', 'countryCode': 'ID', 'a-linkUri': 'https://line.me/ti/p/~max_pv.', 'i-linkUri': 'https://line.me/ti/p/~max_pv.', 'id': 'mt000000000a6b79f9', 'text': 'Khie', 'linkUri': 'https://line.me/ti/p/~max_pv'}, contentType=19)
-                elif text.lower() == 'help4':
+                elif text.lower() == 'คำสั่ง4':
                     helpSetting = helpsetting()
                     line.sendMessage(to, str(helpSetting))
                     line.sendContact(to, "u83211e3b69096f869d545aed2d1724d3")
                     #line.sendMentionFooter(to, '「ผู้สร้างบอท」\n', sender, "https://line.me/ti/p/~max_pv.", "http://dl.profile.line-cdn.net/"+line.getContact(sender).pictureStatus, line.getContact(sender).displayName);line.sendMessage(to, line.getContact(sender).displayName, contentMetadata = {'previewUrl': 'http://dl.profile.line-cdn.net/'+line.getContact(sender).pictureStatus, 'i-installUrl': 'https://line.me/ti/p/~max_pv.', 'type': 'mt', 'subText': "SELFBOT-BY:MAX", 'a-installUrl': 'https://line.me/ti/p/~max_pv.', 'a-installUrl': ' https://line.me/ti/p/~max_pv.', 'a-packageName': 'com.spotify.music', 'countryCode': 'ID', 'a-linkUri': 'https://line.me/ti/p/~max_pv.', 'i-linkUri': 'https://line.me/ti/p/~max_pv.', 'id': 'mt000000000a6b79f9', 'text': 'Khie', 'linkUri': 'https://line.me/ti/p/~max_pv'}, contentType=19)
-                elif text.lower() == 'help5':
+                elif text.lower() == 'คำสั่ง5':
                     socMedia = socmedia()
                     line.sendMessage(to, str(socMedia))
                     line.sendContact(to, "u83211e3b69096f869d545aed2d1724d3")
                     #line.sendMentionFooter(to, '「ผู้สร้างบอท」\n', sender, "https://line.me/ti/p/~max_pv.", "http://dl.profile.line-cdn.net/"+line.getContact(sender).pictureStatus, line.getContact(sender).displayName);line.sendMessage(to, line.getContact(sender).displayName, contentMetadata = {'previewUrl': 'http://dl.profile.line-cdn.net/'+line.getContact(sender).pictureStatus, 'i-installUrl': 'https://line.me/ti/p/~max_pv.', 'type': 'mt', 'subText': "SELFBOT-BY:MAX", 'a-installUrl': 'https://line.me/ti/p/~max_pv.', 'a-installUrl': ' https://line.me/ti/p/~max_pv.', 'a-packageName': 'com.spotify.music', 'countryCode': 'ID', 'a-linkUri': 'https://line.me/ti/p/~max_pv.', 'i-linkUri': 'https://line.me/ti/p/~max_pv.', 'id': 'mt000000000a6b79f9', 'text': 'Khie', 'linkUri': 'https://line.me/ti/p/~max_pv'}, contentType=19)
-                elif text.lower() == 'help6':
+                elif text.lower() == 'คำสั่ง6':
                     helpTextToSpeech = helptexttospeech()
                     line.sendMessage(to, str(helpTextToSpeech))
                     line.sendContact(to, "u83211e3b69096f869d545aed2d1724d3")
                     #line.sendMentionFooter(to, '「ผู้สร้างบอท」\n', sender, "https://line.me/ti/p/~max_pv.", "http://dl.profile.line-cdn.net/"+line.getContact(sender).pictureStatus, line.getContact(sender).displayName);line.sendMessage(to, line.getContact(sender).displayName, contentMetadata = {'previewUrl': 'http://dl.profile.line-cdn.net/'+line.getContact(sender).pictureStatus, 'i-installUrl': 'https://line.me/ti/p/~max_pv.', 'type': 'mt', 'subText': "SELFBOT-BY:MAX", 'a-installUrl': 'https://line.me/ti/p/~max_pv.', 'a-installUrl': ' https://line.me/ti/p/~max_pv.', 'a-packageName': 'com.spotify.music', 'countryCode': 'ID', 'a-linkUri': 'https://line.me/ti/p/~max_pv.', 'i-linkUri': 'https://line.me/ti/p/~max_pv.', 'id': 'mt000000000a6b79f9', 'text': 'Khie', 'linkUri': 'https://line.me/ti/p/~max_pv'}, contentType=19)
-                elif text.lower() == 'help7':
+                elif text.lower() == 'คำสั่ง7':
                     helpLanguange = helplanguange()
                     line.sendMessage(to, str(helpLanguange))
                     line.sendContact(to, "u83211e3b69096f869d545aed2d1724d3")
@@ -1193,14 +1193,14 @@ def lineBot(op):
                         grouplist = line.getGroupIdsJoined()
                         contactlist = line.getAllContactIds()
                         blockedlist = line.getBlockedContactIds()
-                        ret_ = "╔══[ sᴇʟғʙᴏᴛ-ʙʏ:ᴍᴀx ]"
+                        ret_ = "╔══[🇹🇭 ⍣ᎢᎬᎪᎷᏴᎾᎢ⅌ᎷᎫ⍣ 🇹🇭 ]"
                         ret_ += "\n╠❂͜͡☬➣ชื่อ ═ {}".format(contact.displayName)
                         ret_ += "\n╠❂͜͡☬➣กลุ่ม ═ {}".format(str(len(grouplist)))
                         ret_ += "\n╠❂͜͡☬➣เพื่อน ═ {}".format(str(len(contactlist)))
                         ret_ += "\n╠❂͜͡☬➣บล็อค ═ {}".format(str(len(blockedlist)))
                         ret_ += "\n╠❂͜͡☬➣สถานะ ═ {}".format(contact.statusMessage)
                         ret_ += "\n╠❂͜͡☬➣ผู้สร้าง ═ {}".format(creator.displayName)
-                        ret_ += "\n╚══[ sᴇʟғʙᴏᴛ-ʙʏ:ᴍᴀx ]"
+                        ret_ += "\n╚══[🇹🇭 ⍣ᎢᎬᎪᎷᏴᎾᎢ⅌ᎷᎫ⍣ 🇹🇭 ]"
                         line.sendContact(to, owner)
                         line.sendMessage(to, str(ret_))
                         #line.sendContact(to, "u83211e3b69096f869d545aed2d1724d3")
